@@ -90,13 +90,13 @@ services:
         sync: false
       - key: DATABASE_URL
         sync: false
-      # Set these to the deployed agent URLs (https://delphi-news-xxxx.onrender.com, etc.)
+      # Deployed agent URLs (baked in — reproducible; not secret).
       - key: AGENT_NEWS_URL
-        sync: false
+        value: https://delphi-news.onrender.com
       - key: AGENT_REVIEWS_A_URL
-        sync: false
+        value: https://delphi-reviews-a.onrender.com
       - key: AGENT_REVIEWS_B_URL
-        sync: false
-      # Restrict CORS to your Vercel URL once known (e.g. https://delphi.vercel.app)
+        value: https://delphi-reviews-b.onrender.com
+      # CORS locked to the Vercel frontend origin.
       - key: CORS_ORIGINS
-        value: "*"
+        value: https://delphi-wheat-two.vercel.app
