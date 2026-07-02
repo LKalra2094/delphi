@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "delphi_common"
+version = "1.0.0"
+description = "Shared LLM, DB, and A2A helpers for the Delphi multi-agent system."
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=1.30",
+    "asyncpg>=0.29",
+    "fastapi>=0.110",
+    "pydantic>=2.6",
+    "httpx>=0.27",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["delphi_common*"]

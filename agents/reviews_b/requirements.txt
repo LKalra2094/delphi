@@ -1,0 +1,5 @@
+# NOTE: delphi_common is installed from the repo path, NOT listed here.
+#   pip install ./libs/delphi_common
+# It brings openai, asyncpg, httpx, fastapi, pydantic as transitive deps.
+uvicorn>=0.29
+python-dotenv>=1.0

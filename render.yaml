@@ -1,0 +1,102 @@
+# Render blueprint — 4 backend services (orchestrator + 3 agents).
+# Each service uses the repo root as build context so libs/delphi_common is reachable.
+# Secrets (LLM_API_KEY, DATABASE_URL) and the AGENT_*_URL wiring are sync:false —
+# you fill them in the Render dashboard after first deploy. See DEPLOY.md.
+services:
+  - type: web
+    name: delphi-news
+    runtime: python
+    plan: free
+    buildCommand: pip install ./libs/delphi_common && pip install -r agents/news/requirements.txt
+    startCommand: cd agents/news && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: LLM_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai/
+      - key: LLM_MODEL
+        value: gemini-3.1-flash-lite
+      - key: LLM_TIMEOUT_SECONDS
+        value: "90"
+      - key: LLM_REASONING_EFFORT
+        value: none
+      - key: LLM_API_KEY
+        sync: false
+      - key: NEWS_QUERIES
+        value: Amazon,Target,Costco,Kroger,Instacart,Walmart
+
+  - type: web
+    name: delphi-reviews-a
+    runtime: python
+    plan: free
+    buildCommand: pip install ./libs/delphi_common && pip install -r agents/reviews_a/requirements.txt
+    startCommand: cd agents/reviews_a && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: LLM_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai/
+      - key: LLM_MODEL
+        value: gemini-3.1-flash-lite
+      - key: LLM_TIMEOUT_SECONDS
+        value: "90"
+      - key: LLM_REASONING_EFFORT
+        value: none
+      - key: LLM_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: REVIEWS_TABLE
+        value: reviews_store
+
+  - type: web
+    name: delphi-reviews-b
+    runtime: python
+    plan: free
+    buildCommand: pip install ./libs/delphi_common && pip install -r agents/reviews_b/requirements.txt
+    startCommand: cd agents/reviews_b && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: LLM_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai/
+      - key: LLM_MODEL
+        value: gemini-3.1-flash-lite
+      - key: LLM_TIMEOUT_SECONDS
+        value: "90"
+      - key: LLM_REASONING_EFFORT
+        value: none
+      - key: LLM_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: REVIEWS_TABLE
+        value: feedback_survey
+
+  - type: web
+    name: delphi-orchestrator
+    runtime: python
+    plan: free
+    buildCommand: pip install ./libs/delphi_common && pip install -r orchestrator/requirements.txt
+    startCommand: cd orchestrator && uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: LLM_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai/
+      - key: LLM_MODEL
+        value: gemini-3.1-flash-lite
+      - key: LLM_TIMEOUT_SECONDS
+        value: "90"
+      - key: LLM_REASONING_EFFORT
+        value: none
+      - key: LLM_API_KEY
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      # Set these to the deployed agent URLs (https://delphi-news-xxxx.onrender.com, etc.)
+      - key: AGENT_NEWS_URL
+        sync: false
+      - key: AGENT_REVIEWS_A_URL
+        sync: false
+      - key: AGENT_REVIEWS_B_URL
+        sync: false
+      # Restrict CORS to your Vercel URL once known (e.g. https://delphi.vercel.app)
+      - key: CORS_ORIGINS
+        value: "*"

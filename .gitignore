@@ -1,0 +1,16 @@
+.env
+*.env
+!.env.example
+!*.env.example
+frontend/.env.local
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+.next/
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# Proprietary / pre-clean-room source doc — never publish
+Oracle Engineering Spec.md

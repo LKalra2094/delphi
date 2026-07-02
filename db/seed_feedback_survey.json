@@ -1,0 +1,2052 @@
+[
+  {
+    "ext_id": "sv_0001",
+    "channel": "survey",
+    "body": "Refund to my card was quick and clearly itemized.",
+    "nps_score": 10,
+    "order_id": "ORD-92956",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-23T13:18:16Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0002",
+    "channel": "support_ticket",
+    "body": "Locked out of my account and MFA codes never arrive.",
+    "nps_score": 3,
+    "order_id": "ORD-96981",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-10T07:50:17Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0003",
+    "channel": "nps",
+    "body": "I searched for 'AA batteries' and got zero results. Search is broken.",
+    "nps_score": 2,
+    "order_id": "ORD-90939",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-22T00:47:20Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0004",
+    "channel": "survey",
+    "body": "Checkout is fine but the address form is a bit long.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-01T00:30:38Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0005",
+    "channel": "nps",
+    "body": "Curbside pickup made me wait 40 minutes.",
+    "nps_score": 5,
+    "order_id": "ORD-96077",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-15T07:50:12Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0006",
+    "channel": "nps",
+    "body": "Return label printed instantly, super easy.",
+    "nps_score": 10,
+    "order_id": "ORD-94089",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-17T23:03:24Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0007",
+    "channel": "nps",
+    "body": "Apple Pay made paying effortless.",
+    "nps_score": 10,
+    "order_id": "ORD-97311",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-04T01:43:21Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0008",
+    "channel": "survey",
+    "body": "Can't update my address, form throws an error.",
+    "nps_score": 6,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-09T07:47:39Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0009",
+    "channel": "nps",
+    "body": "Filters make narrowing down products so easy.",
+    "nps_score": 10,
+    "order_id": "ORD-94914",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-11T00:46:56Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0010",
+    "channel": "nps",
+    "body": "Surprise fees appeared only at the final step.",
+    "nps_score": 1,
+    "order_id": "ORD-93878",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-29T23:02:35Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0011",
+    "channel": "support_ticket",
+    "body": "Item arrived damaged and tracking was wrong the whole time.",
+    "nps_score": 0,
+    "order_id": "ORD-97842",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-25T09:02:37Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0012",
+    "channel": "survey",
+    "body": "Refund hit my card in two days. Painless return.",
+    "nps_score": 10,
+    "order_id": "ORD-98476",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-18T19:19:39Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0013",
+    "channel": "survey",
+    "body": "Gift card applied with no issues at all.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-12T12:55:38Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0014",
+    "channel": "nps",
+    "body": "Got logged out mid-order and lost everything.",
+    "nps_score": 4,
+    "order_id": "ORD-91292",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-30T16:51:11Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0015",
+    "channel": "survey",
+    "body": "Autocomplete works, though it misses some categories.",
+    "nps_score": 7,
+    "order_id": "ORD-99696",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-18T18:23:10Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0016",
+    "channel": "nps",
+    "body": "Surprise fees appeared only at the final step.",
+    "nps_score": 0,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-10T03:00:02Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0017",
+    "channel": "nps",
+    "body": "Delivery was three days late with no updates.",
+    "nps_score": 3,
+    "order_id": "ORD-98938",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-25T00:37:44Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0018",
+    "channel": "survey",
+    "body": "Drop-off return took two minutes. Great experience.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-24T18:14:41Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0019",
+    "channel": "support_ticket",
+    "body": "Card entry is fine, wish it saved automatically.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-22T11:25:32Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0020",
+    "channel": "support_ticket",
+    "body": "Password reset took seconds. No friction.",
+    "nps_score": 9,
+    "order_id": "ORD-94382",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-05T14:58:25Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0021",
+    "channel": "support_ticket",
+    "body": "I searched for 'AA batteries' and got zero results. Search is broken.",
+    "nps_score": 1,
+    "order_id": "ORD-92616",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-21T02:58:02Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0022",
+    "channel": "survey",
+    "body": "Guest checkout is smooth and quick.",
+    "nps_score": 10,
+    "order_id": "ORD-98148",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-29T20:43:18Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0023",
+    "channel": "survey",
+    "body": "Driver handoff was seamless and friendly.",
+    "nps_score": 9,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-29T02:14:43Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0024",
+    "channel": "support_ticket",
+    "body": "Drop-off return took two minutes. Great experience.",
+    "nps_score": 9,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-29T10:40:57Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0025",
+    "channel": "survey",
+    "body": "Refund to my card was quick and clearly itemized.",
+    "nps_score": 10,
+    "order_id": "ORD-95939",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-22T13:29:33Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0026",
+    "channel": "nps",
+    "body": "Can't update my address, form throws an error.",
+    "nps_score": 1,
+    "order_id": "ORD-96453",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-15T11:39:16Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0027",
+    "channel": "survey",
+    "body": "Autocomplete works, though it misses some categories.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-27T19:00:39Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0028",
+    "channel": "nps",
+    "body": "No surprise fees at checkout, exactly what I expected.",
+    "nps_score": 10,
+    "order_id": "ORD-92290",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-21T01:40:44Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0029",
+    "channel": "nps",
+    "body": "Curbside pickup made me wait 40 minutes.",
+    "nps_score": 4,
+    "order_id": "ORD-98721",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-30T03:30:17Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0030",
+    "channel": "support_ticket",
+    "body": "Return took three weeks to refund. Frustrating.",
+    "nps_score": 3,
+    "order_id": "ORD-90436",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-16T06:43:15Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0031",
+    "channel": "nps",
+    "body": "My saved card keeps getting declined for no reason.",
+    "nps_score": 1,
+    "order_id": "ORD-96229",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-13T15:10:55Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0032",
+    "channel": "survey",
+    "body": "Locked out of my account and MFA codes never arrive.",
+    "nps_score": 2,
+    "order_id": "ORD-96765",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-04T16:34:36Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0033",
+    "channel": "nps",
+    "body": "Autocomplete works, though it misses some categories.",
+    "nps_score": 7,
+    "order_id": "ORD-95325",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-08T06:34:59Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0034",
+    "channel": "survey",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 8,
+    "order_id": "ORD-94331",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-14T06:22:18Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0035",
+    "channel": "support_ticket",
+    "body": "Delivery was three days late with no updates.",
+    "nps_score": 2,
+    "order_id": "ORD-93396",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-04T06:11:46Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0036",
+    "channel": "nps",
+    "body": "Charged a restocking fee that wasn't disclosed.",
+    "nps_score": 0,
+    "order_id": "ORD-98899",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-14T09:38:08Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0037",
+    "channel": "support_ticket",
+    "body": "Gift card applied with no issues at all.",
+    "nps_score": 9,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-06T00:07:01Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0038",
+    "channel": "survey",
+    "body": "Can't update my address, form throws an error.",
+    "nps_score": 4,
+    "order_id": "ORD-92249",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-18T01:35:02Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0039",
+    "channel": "survey",
+    "body": "Autocomplete suggestions are spot on now, love it.",
+    "nps_score": 9,
+    "order_id": "ORD-91641",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-10T11:58:28Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0040",
+    "channel": "nps",
+    "body": "Checkout was three taps and done. Promo code applied perfectly.",
+    "nps_score": 9,
+    "order_id": "ORD-92587",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-10T00:13:45Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0041",
+    "channel": "support_ticket",
+    "body": "Driver handoff was seamless and friendly.",
+    "nps_score": 9,
+    "order_id": "ORD-90969",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-20T00:15:02Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0042",
+    "channel": "survey",
+    "body": "Return worked but the policy page was confusing.",
+    "nps_score": 7,
+    "order_id": "ORD-96504",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-29T17:13:00Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0043",
+    "channel": "survey",
+    "body": "Refund to my card was quick and clearly itemized.",
+    "nps_score": 9,
+    "order_id": "ORD-95489",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-26T07:27:28Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0044",
+    "channel": "survey",
+    "body": "Loyalty rewards are clearly shown and easy to redeem.",
+    "nps_score": 10,
+    "order_id": "ORD-95417",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-11T07:17:30Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0045",
+    "channel": "survey",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 8,
+    "order_id": "ORD-93164",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-09T01:45:21Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0046",
+    "channel": "support_ticket",
+    "body": "No surprise fees at checkout, exactly what I expected.",
+    "nps_score": 10,
+    "order_id": "ORD-93027",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-14T06:37:00Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0047",
+    "channel": "survey",
+    "body": "Delivery was three days late with no updates.",
+    "nps_score": 1,
+    "order_id": "ORD-94374",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-20T13:00:24Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0048",
+    "channel": "support_ticket",
+    "body": "Return worked but the policy page was confusing.",
+    "nps_score": 7,
+    "order_id": "ORD-97625",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-23T18:11:06Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0049",
+    "channel": "nps",
+    "body": "Card entry is fine, wish it saved automatically.",
+    "nps_score": 8,
+    "order_id": "ORD-93590",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-14T06:35:24Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0050",
+    "channel": "support_ticket",
+    "body": "Got logged out mid-order and lost everything.",
+    "nps_score": 6,
+    "order_id": "ORD-99761",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-21T04:52:01Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0051",
+    "channel": "survey",
+    "body": "Autocomplete works, though it misses some categories.",
+    "nps_score": 7,
+    "order_id": "ORD-98281",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-06T03:08:55Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0052",
+    "channel": "support_ticket",
+    "body": "Checkout is fine but the address form is a bit long.",
+    "nps_score": 7,
+    "order_id": "ORD-99554",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-30T20:41:21Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0053",
+    "channel": "survey",
+    "body": "Driver handoff was seamless and friendly.",
+    "nps_score": 10,
+    "order_id": "ORD-99239",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-24T03:39:18Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0054",
+    "channel": "nps",
+    "body": "Refund arrived, took about a week. Average.",
+    "nps_score": 8,
+    "order_id": "ORD-93570",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-18T21:20:28Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0055",
+    "channel": "nps",
+    "body": "Refund to card still missing after two weeks.",
+    "nps_score": 0,
+    "order_id": "ORD-97734",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-27T13:32:51Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0056",
+    "channel": "nps",
+    "body": "Account settings are fine, layout is a bit dated.",
+    "nps_score": 8,
+    "order_id": "ORD-96184",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-14T21:04:42Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0057",
+    "channel": "nps",
+    "body": "Autocomplete suggestions are spot on now, love it.",
+    "nps_score": 10,
+    "order_id": "ORD-96439",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-25T19:21:49Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0058",
+    "channel": "survey",
+    "body": "Guest checkout is smooth and quick.",
+    "nps_score": 9,
+    "order_id": "ORD-98920",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-08T04:37:59Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0059",
+    "channel": "survey",
+    "body": "Delivery was three days late with no updates.",
+    "nps_score": 1,
+    "order_id": "ORD-91848",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-27T08:44:10Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0060",
+    "channel": "survey",
+    "body": "Return worked but the policy page was confusing.",
+    "nps_score": 7,
+    "order_id": "ORD-97314",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-16T22:13:40Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0061",
+    "channel": "support_ticket",
+    "body": "Card was double-charged on one order.",
+    "nps_score": 4,
+    "order_id": "ORD-90924",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-14T05:39:14Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0062",
+    "channel": "nps",
+    "body": "Password reset took seconds. No friction.",
+    "nps_score": 10,
+    "order_id": "ORD-92347",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-08T05:01:19Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0063",
+    "channel": "support_ticket",
+    "body": "Relevant products buried under sponsored junk.",
+    "nps_score": 5,
+    "order_id": "ORD-99107",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-29T22:17:35Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0064",
+    "channel": "nps",
+    "body": "No surprise fees at checkout, exactly what I expected.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-14T17:18:19Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0065",
+    "channel": "survey",
+    "body": "Driver handoff was seamless and friendly.",
+    "nps_score": 9,
+    "order_id": "ORD-97586",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-24T03:31:27Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0066",
+    "channel": "nps",
+    "body": "Refund arrived, took about a week. Average.",
+    "nps_score": 8,
+    "order_id": "ORD-95411",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-10T21:07:17Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0067",
+    "channel": "survey",
+    "body": "Refund to my card was quick and clearly itemized.",
+    "nps_score": 9,
+    "order_id": "ORD-99911",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-15T22:33:37Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0068",
+    "channel": "nps",
+    "body": "Password reset took seconds. No friction.",
+    "nps_score": 9,
+    "order_id": "ORD-95455",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-24T23:26:31Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0069",
+    "channel": "nps",
+    "body": "Every misspelling returns nothing. Useless search.",
+    "nps_score": 1,
+    "order_id": "ORD-93350",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-12T15:17:11Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0070",
+    "channel": "support_ticket",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 8,
+    "order_id": "ORD-98401",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-29T07:02:00Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0071",
+    "channel": "support_ticket",
+    "body": "Curbside pickup made me wait 40 minutes.",
+    "nps_score": 2,
+    "order_id": "ORD-99216",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-03T18:41:14Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0072",
+    "channel": "support_ticket",
+    "body": "Exchange never processed, had to call twice.",
+    "nps_score": 2,
+    "order_id": "ORD-99335",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-31T05:49:16Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0073",
+    "channel": "support_ticket",
+    "body": "Card entry is fine, wish it saved automatically.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-17T17:50:15Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0074",
+    "channel": "survey",
+    "body": "Can't update my address, form throws an error.",
+    "nps_score": 6,
+    "order_id": "ORD-90794",
+    "sentiment": "negative",
+    "feedback_dt": "2026-07-01T08:59:07Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0075",
+    "channel": "survey",
+    "body": "Every misspelling returns nothing. Useless search.",
+    "nps_score": 1,
+    "order_id": "ORD-96114",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-24T01:30:20Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0076",
+    "channel": "nps",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 7,
+    "order_id": "ORD-96739",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-30T23:23:28Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0077",
+    "channel": "nps",
+    "body": "Tracking updated eventually, a little slow.",
+    "nps_score": 7,
+    "order_id": "ORD-97054",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-09T20:06:14Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0078",
+    "channel": "survey",
+    "body": "Return label printed instantly, super easy.",
+    "nps_score": 9,
+    "order_id": "ORD-96502",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-21T10:25:04Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0079",
+    "channel": "nps",
+    "body": "Apple Pay made paying effortless.",
+    "nps_score": 9,
+    "order_id": "ORD-91320",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-09T00:20:18Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0080",
+    "channel": "support_ticket",
+    "body": "Login with MFA is smooth now, thanks.",
+    "nps_score": 10,
+    "order_id": "ORD-90154",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-03T17:45:37Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0081",
+    "channel": "nps",
+    "body": "Filters reset every time I go back. Infuriating.",
+    "nps_score": 4,
+    "order_id": "ORD-93764",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-04T03:21:51Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0082",
+    "channel": "survey",
+    "body": "Checkout is fine but the address form is a bit long.",
+    "nps_score": 7,
+    "order_id": "ORD-95152",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-29T16:27:28Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0083",
+    "channel": "survey",
+    "body": "Tracking updated eventually, a little slow.",
+    "nps_score": 7,
+    "order_id": "ORD-96375",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-06T04:19:08Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0084",
+    "channel": "nps",
+    "body": "Couldn't generate a return label, support was no help.",
+    "nps_score": 0,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-02T21:13:57Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0085",
+    "channel": "support_ticket",
+    "body": "Authorization hold locked up funds for days.",
+    "nps_score": 6,
+    "order_id": "ORD-98038",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-02T11:02:44Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0086",
+    "channel": "support_ticket",
+    "body": "Login works but session logs me out often.",
+    "nps_score": 8,
+    "order_id": "ORD-94839",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-31T21:19:26Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0087",
+    "channel": "support_ticket",
+    "body": "Every misspelling returns nothing. Useless search.",
+    "nps_score": 2,
+    "order_id": "ORD-91499",
+    "sentiment": "negative",
+    "feedback_dt": "2026-07-01T12:46:35Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0088",
+    "channel": "survey",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 7,
+    "order_id": "ORD-99125",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-21T05:20:34Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0089",
+    "channel": "survey",
+    "body": "Delivery window was accurate but wide. Acceptable.",
+    "nps_score": 7,
+    "order_id": "ORD-95315",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-13T23:33:03Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0090",
+    "channel": "survey",
+    "body": "Exchange never processed, had to call twice.",
+    "nps_score": 5,
+    "order_id": "ORD-92274",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-28T13:02:11Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0091",
+    "channel": "survey",
+    "body": "My saved card keeps getting declined for no reason.",
+    "nps_score": 2,
+    "order_id": "ORD-97933",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-22T10:51:07Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0092",
+    "channel": "nps",
+    "body": "Password reset email never comes through.",
+    "nps_score": 3,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-24T23:45:13Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0093",
+    "channel": "nps",
+    "body": "Filters make narrowing down products so easy.",
+    "nps_score": 10,
+    "order_id": "ORD-99738",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-14T13:03:42Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0094",
+    "channel": "support_ticket",
+    "body": "App crashed twice during checkout and lost my cart.",
+    "nps_score": 3,
+    "order_id": "ORD-94775",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-04T00:57:25Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0095",
+    "channel": "support_ticket",
+    "body": "Delivery window was accurate but wide. Acceptable.",
+    "nps_score": 8,
+    "order_id": "ORD-95980",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-17T03:28:15Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0096",
+    "channel": "nps",
+    "body": "Couldn't generate a return label, support was no help.",
+    "nps_score": 5,
+    "order_id": "ORD-94773",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-04T21:28:56Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0097",
+    "channel": "nps",
+    "body": "Apple Pay made paying effortless.",
+    "nps_score": 10,
+    "order_id": "ORD-94139",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-08T18:23:17Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0098",
+    "channel": "survey",
+    "body": "Loyalty rewards are clearly shown and easy to redeem.",
+    "nps_score": 10,
+    "order_id": "ORD-98300",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-04T08:46:13Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0099",
+    "channel": "nps",
+    "body": "Autocomplete works, though it misses some categories.",
+    "nps_score": 7,
+    "order_id": "ORD-95816",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-10T00:26:37Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0100",
+    "channel": "support_ticket",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 7,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-03T05:24:25Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0101",
+    "channel": "support_ticket",
+    "body": "Same-day delivery arrived early. Impressed.",
+    "nps_score": 10,
+    "order_id": "ORD-99643",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-04T05:46:43Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0102",
+    "channel": "support_ticket",
+    "body": "Return took three weeks to refund. Frustrating.",
+    "nps_score": 3,
+    "order_id": "ORD-91406",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-17T18:50:31Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0103",
+    "channel": "support_ticket",
+    "body": "Refund to card still missing after two weeks.",
+    "nps_score": 2,
+    "order_id": "ORD-97178",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-03T07:31:37Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0104",
+    "channel": "survey",
+    "body": "Got logged out mid-order and lost everything.",
+    "nps_score": 6,
+    "order_id": "ORD-91791",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-06T18:00:58Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0105",
+    "channel": "nps",
+    "body": "Autocomplete suggestions are spot on now, love it.",
+    "nps_score": 9,
+    "order_id": "ORD-97570",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-02T09:15:10Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0106",
+    "channel": "nps",
+    "body": "Checkout is fine but the address form is a bit long.",
+    "nps_score": 8,
+    "order_id": "ORD-93232",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-05T02:26:19Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0107",
+    "channel": "nps",
+    "body": "Delivery window was accurate but wide. Acceptable.",
+    "nps_score": 7,
+    "order_id": "ORD-91025",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-19T20:17:44Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0108",
+    "channel": "support_ticket",
+    "body": "Return label printed instantly, super easy.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-07T06:10:43Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0109",
+    "channel": "nps",
+    "body": "Card entry is fine, wish it saved automatically.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-17T07:19:48Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0110",
+    "channel": "nps",
+    "body": "Login works but session logs me out often.",
+    "nps_score": 7,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-23T19:44:32Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0111",
+    "channel": "nps",
+    "body": "Every misspelling returns nothing. Useless search.",
+    "nps_score": 4,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-13T08:35:52Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0112",
+    "channel": "nps",
+    "body": "App crashed twice during checkout and lost my cart.",
+    "nps_score": 2,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-22T07:34:47Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0113",
+    "channel": "survey",
+    "body": "Tracking updated eventually, a little slow.",
+    "nps_score": 7,
+    "order_id": "ORD-99200",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-28T00:13:21Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0114",
+    "channel": "support_ticket",
+    "body": "Refund arrived, took about a week. Average.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-28T15:58:15Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0115",
+    "channel": "survey",
+    "body": "Refund to card still missing after two weeks.",
+    "nps_score": 6,
+    "order_id": "ORD-98115",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-22T05:24:08Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0116",
+    "channel": "support_ticket",
+    "body": "Locked out of my account and MFA codes never arrive.",
+    "nps_score": 6,
+    "order_id": "ORD-98951",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-04T08:31:15Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0117",
+    "channel": "support_ticket",
+    "body": "Every misspelling returns nothing. Useless search.",
+    "nps_score": 2,
+    "order_id": "ORD-91425",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-06T19:43:34Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0118",
+    "channel": "survey",
+    "body": "Guest checkout is smooth and quick.",
+    "nps_score": 10,
+    "order_id": "ORD-93385",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-05T21:50:20Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0119",
+    "channel": "nps",
+    "body": "Tracking updated eventually, a little slow.",
+    "nps_score": 8,
+    "order_id": "ORD-99383",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-28T05:16:15Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0120",
+    "channel": "survey",
+    "body": "Refund hit my card in two days. Painless return.",
+    "nps_score": 10,
+    "order_id": "ORD-92078",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-03T19:10:08Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0121",
+    "channel": "survey",
+    "body": "Refund to card still missing after two weeks.",
+    "nps_score": 1,
+    "order_id": "ORD-94402",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-12T08:55:07Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0122",
+    "channel": "nps",
+    "body": "Locked out of my account and MFA codes never arrive.",
+    "nps_score": 4,
+    "order_id": "ORD-96046",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-04T06:13:52Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0123",
+    "channel": "nps",
+    "body": "I searched for 'AA batteries' and got zero results. Search is broken.",
+    "nps_score": 5,
+    "order_id": "ORD-95869",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-23T04:32:32Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0124",
+    "channel": "survey",
+    "body": "Guest checkout forced me to make an account. Abandoned.",
+    "nps_score": 2,
+    "order_id": "ORD-95533",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-22T02:57:30Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0125",
+    "channel": "support_ticket",
+    "body": "Curbside pickup made me wait 40 minutes.",
+    "nps_score": 0,
+    "order_id": "ORD-97529",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-29T19:28:36Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0126",
+    "channel": "support_ticket",
+    "body": "Return label printed instantly, super easy.",
+    "nps_score": 10,
+    "order_id": "ORD-92161",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-09T13:00:34Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0127",
+    "channel": "survey",
+    "body": "Refund to card still missing after two weeks.",
+    "nps_score": 0,
+    "order_id": "ORD-92711",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-25T09:34:11Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0128",
+    "channel": "support_ticket",
+    "body": "Account settings are fine, layout is a bit dated.",
+    "nps_score": 7,
+    "order_id": "ORD-91276",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-15T02:23:06Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0129",
+    "channel": "survey",
+    "body": "Filters reset every time I go back. Infuriating.",
+    "nps_score": 6,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-08T19:11:16Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0130",
+    "channel": "support_ticket",
+    "body": "Checkout is fine but the address form is a bit long.",
+    "nps_score": 7,
+    "order_id": "ORD-94902",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-14T10:03:56Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0131",
+    "channel": "nps",
+    "body": "Same-day delivery arrived early. Impressed.",
+    "nps_score": 9,
+    "order_id": "ORD-99999",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-09T18:01:29Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0132",
+    "channel": "nps",
+    "body": "Return worked but the policy page was confusing.",
+    "nps_score": 8,
+    "order_id": "ORD-93559",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-20T20:20:32Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0133",
+    "channel": "nps",
+    "body": "Card was double-charged on one order.",
+    "nps_score": 3,
+    "order_id": "ORD-92290",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-31T13:54:58Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0134",
+    "channel": "nps",
+    "body": "Account settings are fine, layout is a bit dated.",
+    "nps_score": 7,
+    "order_id": "ORD-94942",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-05T05:08:58Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0135",
+    "channel": "nps",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-01T05:58:55Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0136",
+    "channel": "support_ticket",
+    "body": "App crashed twice during checkout and lost my cart.",
+    "nps_score": 2,
+    "order_id": "ORD-92162",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-13T03:18:22Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0137",
+    "channel": "support_ticket",
+    "body": "Delivery window was accurate but wide. Acceptable.",
+    "nps_score": 7,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-29T16:08:43Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0138",
+    "channel": "support_ticket",
+    "body": "Return took three weeks to refund. Frustrating.",
+    "nps_score": 3,
+    "order_id": "ORD-91350",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-11T04:27:52Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0139",
+    "channel": "support_ticket",
+    "body": "Payment went through but the receipt email was delayed.",
+    "nps_score": 8,
+    "order_id": "ORD-93329",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-12T04:28:15Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0140",
+    "channel": "support_ticket",
+    "body": "Locked out of my account and MFA codes never arrive.",
+    "nps_score": 0,
+    "order_id": "ORD-97118",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-17T07:29:36Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0141",
+    "channel": "support_ticket",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 7,
+    "order_id": "ORD-90185",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-11T05:55:35Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0142",
+    "channel": "survey",
+    "body": "Cart saved my items across devices. Very convenient.",
+    "nps_score": 10,
+    "order_id": "ORD-94403",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-16T22:55:53Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0143",
+    "channel": "support_ticket",
+    "body": "Curbside pickup made me wait 40 minutes.",
+    "nps_score": 5,
+    "order_id": "ORD-91262",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-29T07:25:37Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0144",
+    "channel": "support_ticket",
+    "body": "Return worked but the policy page was confusing.",
+    "nps_score": 8,
+    "order_id": "ORD-91685",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-19T19:48:03Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0145",
+    "channel": "survey",
+    "body": "Card was double-charged on one order.",
+    "nps_score": 0,
+    "order_id": "ORD-96274",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-12T17:29:04Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0146",
+    "channel": "nps",
+    "body": "Login with MFA is smooth now, thanks.",
+    "nps_score": 10,
+    "order_id": "ORD-95241",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-28T21:09:52Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0147",
+    "channel": "nps",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 7,
+    "order_id": "ORD-90752",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-11T21:29:26Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0148",
+    "channel": "support_ticket",
+    "body": "Cart saved my items across devices. Very convenient.",
+    "nps_score": 10,
+    "order_id": "ORD-96044",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-06T13:23:01Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0149",
+    "channel": "nps",
+    "body": "Tracking updated eventually, a little slow.",
+    "nps_score": 8,
+    "order_id": "ORD-98083",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-06T04:06:02Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0150",
+    "channel": "survey",
+    "body": "Return label printed instantly, super easy.",
+    "nps_score": 9,
+    "order_id": "ORD-95675",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-11T23:39:03Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0151",
+    "channel": "nps",
+    "body": "Saved cards and wallet checkout work flawlessly.",
+    "nps_score": 10,
+    "order_id": "ORD-93902",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-09T06:05:09Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0152",
+    "channel": "nps",
+    "body": "Password reset took seconds. No friction.",
+    "nps_score": 10,
+    "order_id": "ORD-98515",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-10T10:26:17Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0153",
+    "channel": "nps",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 7,
+    "order_id": "ORD-91226",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-17T03:19:35Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0154",
+    "channel": "survey",
+    "body": "App crashed twice during checkout and lost my cart.",
+    "nps_score": 6,
+    "order_id": "ORD-96438",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-03T12:07:18Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0155",
+    "channel": "survey",
+    "body": "Item arrived damaged and tracking was wrong the whole time.",
+    "nps_score": 1,
+    "order_id": "ORD-99579",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-18T18:20:31Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0156",
+    "channel": "support_ticket",
+    "body": "Exchange never processed, had to call twice.",
+    "nps_score": 0,
+    "order_id": "ORD-93401",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-05T12:46:30Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0157",
+    "channel": "survey",
+    "body": "Payment went through but the receipt email was delayed.",
+    "nps_score": 8,
+    "order_id": "ORD-99884",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-26T16:10:17Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0158",
+    "channel": "survey",
+    "body": "Managing addresses in my profile is simple.",
+    "nps_score": 9,
+    "order_id": "ORD-90802",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-06T13:07:11Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0159",
+    "channel": "survey",
+    "body": "Every misspelling returns nothing. Useless search.",
+    "nps_score": 4,
+    "order_id": "ORD-94093",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-19T07:10:40Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0160",
+    "channel": "survey",
+    "body": "App crashed twice during checkout and lost my cart.",
+    "nps_score": 6,
+    "order_id": "ORD-93641",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-15T16:47:11Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0161",
+    "channel": "nps",
+    "body": "Tracking updates were precise the whole way.",
+    "nps_score": 9,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-23T16:48:01Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0162",
+    "channel": "survey",
+    "body": "Drop-off return took two minutes. Great experience.",
+    "nps_score": 9,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-03T22:09:23Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0163",
+    "channel": "nps",
+    "body": "Authorization hold locked up funds for days.",
+    "nps_score": 0,
+    "order_id": "ORD-96990",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-09T11:06:48Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0164",
+    "channel": "support_ticket",
+    "body": "Password reset email never comes through.",
+    "nps_score": 1,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-13T01:32:12Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0165",
+    "channel": "support_ticket",
+    "body": "Relevant products buried under sponsored junk.",
+    "nps_score": 0,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-13T19:00:13Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0166",
+    "channel": "nps",
+    "body": "Checkout is fine but the address form is a bit long.",
+    "nps_score": 8,
+    "order_id": "ORD-97859",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-23T06:21:13Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0167",
+    "channel": "support_ticket",
+    "body": "Item arrived damaged and tracking was wrong the whole time.",
+    "nps_score": 0,
+    "order_id": "ORD-93588",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-28T13:46:18Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0168",
+    "channel": "nps",
+    "body": "Exchange never processed, had to call twice.",
+    "nps_score": 1,
+    "order_id": null,
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-08T15:13:12Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0169",
+    "channel": "survey",
+    "body": "Card was double-charged on one order.",
+    "nps_score": 6,
+    "order_id": "ORD-92846",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-09T15:23:15Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0170",
+    "channel": "nps",
+    "body": "Login works but session logs me out often.",
+    "nps_score": 8,
+    "order_id": "ORD-99225",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-07T06:04:43Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0171",
+    "channel": "support_ticket",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 7,
+    "order_id": "ORD-93584",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-29T04:49:58Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0172",
+    "channel": "nps",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 7,
+    "order_id": "ORD-95301",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-06-24T23:12:08Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0173",
+    "channel": "survey",
+    "body": "Delivery was three days late with no updates.",
+    "nps_score": 2,
+    "order_id": "ORD-96481",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-17T20:19:18Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0174",
+    "channel": "survey",
+    "body": "Charged a restocking fee that wasn't disclosed.",
+    "nps_score": 6,
+    "order_id": "ORD-97982",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-09T12:26:54Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0175",
+    "channel": "survey",
+    "body": "Refund to card still missing after two weeks.",
+    "nps_score": 2,
+    "order_id": "ORD-94825",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-15T17:31:48Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0176",
+    "channel": "nps",
+    "body": "Loyalty rewards are clearly shown and easy to redeem.",
+    "nps_score": 9,
+    "order_id": "ORD-93619",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-11T03:24:33Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0177",
+    "channel": "survey",
+    "body": "Filters reset every time I go back. Infuriating.",
+    "nps_score": 1,
+    "order_id": "ORD-95234",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-10T00:50:14Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0178",
+    "channel": "nps",
+    "body": "Checkout was three taps and done. Promo code applied perfectly.",
+    "nps_score": 10,
+    "order_id": "ORD-94088",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-04T21:31:55Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0179",
+    "channel": "nps",
+    "body": "Package marked delivered but never arrived.",
+    "nps_score": 3,
+    "order_id": "ORD-96875",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-10T08:55:34Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0180",
+    "channel": "support_ticket",
+    "body": "Refund arrived, took about a week. Average.",
+    "nps_score": 7,
+    "order_id": "ORD-99470",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-09T15:47:13Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0181",
+    "channel": "survey",
+    "body": "Card was double-charged on one order.",
+    "nps_score": 2,
+    "order_id": "ORD-91715",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-22T11:33:19Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0182",
+    "channel": "survey",
+    "body": "Can't update my address, form throws an error.",
+    "nps_score": 2,
+    "order_id": "ORD-97909",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-28T08:17:46Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0183",
+    "channel": "nps",
+    "body": "Autocomplete suggestions are spot on now, love it.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-05T17:04:59Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0184",
+    "channel": "nps",
+    "body": "Promo field is easy to miss but works once found.",
+    "nps_score": 8,
+    "order_id": null,
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-12T03:10:57Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0185",
+    "channel": "survey",
+    "body": "Tracking updated eventually, a little slow.",
+    "nps_score": 8,
+    "order_id": "ORD-94825",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-04-08T01:14:29Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0186",
+    "channel": "survey",
+    "body": "Return worked but the policy page was confusing.",
+    "nps_score": 7,
+    "order_id": "ORD-91342",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-02T19:47:41Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0187",
+    "channel": "support_ticket",
+    "body": "Authorization hold locked up funds for days.",
+    "nps_score": 0,
+    "order_id": "ORD-96349",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-08T10:29:30Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0188",
+    "channel": "survey",
+    "body": "Managing addresses in my profile is simple.",
+    "nps_score": 10,
+    "order_id": "ORD-94315",
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-03T14:13:20Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0189",
+    "channel": "nps",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 7,
+    "order_id": "ORD-98871",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-10T02:31:44Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0190",
+    "channel": "support_ticket",
+    "body": "Payment page spins forever and my promo code won't apply.",
+    "nps_score": 4,
+    "order_id": "ORD-97803",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-24T21:07:32Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0191",
+    "channel": "nps",
+    "body": "Package marked delivered but never arrived.",
+    "nps_score": 6,
+    "order_id": "ORD-92738",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-04T16:59:00Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0192",
+    "channel": "survey",
+    "body": "Exchange never processed, had to call twice.",
+    "nps_score": 6,
+    "order_id": "ORD-99749",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-29T12:21:30Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0193",
+    "channel": "survey",
+    "body": "Saved cards and wallet checkout work flawlessly.",
+    "nps_score": 10,
+    "order_id": "ORD-94525",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-26T07:19:09Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0194",
+    "channel": "nps",
+    "body": "Login with MFA is smooth now, thanks.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-20T02:35:39Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0195",
+    "channel": "survey",
+    "body": "Search is okay but ranking could be better for brand names.",
+    "nps_score": 8,
+    "order_id": "ORD-95633",
+    "sentiment": "neutral",
+    "feedback_dt": "2026-05-10T14:23:00Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0196",
+    "channel": "nps",
+    "body": "Guest checkout forced me to make an account. Abandoned.",
+    "nps_score": 1,
+    "order_id": "ORD-92356",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-13T01:50:23Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0197",
+    "channel": "survey",
+    "body": "Driver handoff was seamless and friendly.",
+    "nps_score": 10,
+    "order_id": "ORD-97785",
+    "sentiment": "positive",
+    "feedback_dt": "2026-05-28T10:26:24Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0198",
+    "channel": "support_ticket",
+    "body": "Charged a restocking fee that wasn't disclosed.",
+    "nps_score": 6,
+    "order_id": "ORD-91609",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-02T19:06:26Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0199",
+    "channel": "support_ticket",
+    "body": "Authorization hold locked up funds for days.",
+    "nps_score": 4,
+    "order_id": "ORD-93079",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-06T16:18:13Z",
+    "domain_tag": "payments"
+  },
+  {
+    "ext_id": "sv_0200",
+    "channel": "nps",
+    "body": "Loyalty rewards are clearly shown and easy to redeem.",
+    "nps_score": 10,
+    "order_id": null,
+    "sentiment": "positive",
+    "feedback_dt": "2026-06-11T21:36:40Z",
+    "domain_tag": "account"
+  },
+  {
+    "ext_id": "sv_0201",
+    "channel": "survey",
+    "body": "Filters reset every time I go back. Infuriating.",
+    "nps_score": 1,
+    "order_id": "ORD-93288",
+    "sentiment": "negative",
+    "feedback_dt": "2026-06-24T14:54:59Z",
+    "domain_tag": "search"
+  },
+  {
+    "ext_id": "sv_0202",
+    "channel": "support_ticket",
+    "body": "Payment page spins forever and my promo code won't apply.",
+    "nps_score": 2,
+    "order_id": "ORD-98275",
+    "sentiment": "negative",
+    "feedback_dt": "2026-05-12T00:51:56Z",
+    "domain_tag": "checkout"
+  },
+  {
+    "ext_id": "sv_0203",
+    "channel": "survey",
+    "body": "Curbside pickup was fast and the app tracking was accurate.",
+    "nps_score": 10,
+    "order_id": "ORD-97775",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-17T03:55:36Z",
+    "domain_tag": "delivery"
+  },
+  {
+    "ext_id": "sv_0204",
+    "channel": "support_ticket",
+    "body": "Couldn't generate a return label, support was no help.",
+    "nps_score": 0,
+    "order_id": "ORD-92669",
+    "sentiment": "negative",
+    "feedback_dt": "2026-04-19T16:11:49Z",
+    "domain_tag": "returns"
+  },
+  {
+    "ext_id": "sv_0205",
+    "channel": "nps",
+    "body": "Gift card applied with no issues at all.",
+    "nps_score": 9,
+    "order_id": "ORD-90328",
+    "sentiment": "positive",
+    "feedback_dt": "2026-04-05T23:40:34Z",
+    "domain_tag": "payments"
+  }
+]
